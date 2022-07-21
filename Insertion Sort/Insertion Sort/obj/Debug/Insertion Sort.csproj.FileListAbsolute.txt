@@ -1,0 +1,11 @@
+C:\Users\Ozan\Desktop\c#\Insertion Sort\Insertion Sort\bin\Debug\Insertion Sort.exe.config
+C:\Users\Ozan\Desktop\c#\Insertion Sort\Insertion Sort\bin\Debug\Insertion Sort.exe
+C:\Users\Ozan\Desktop\c#\Insertion Sort\Insertion Sort\bin\Debug\Insertion Sort.pdb
+C:\Users\Ozan\Desktop\c#\Insertion Sort\Insertion Sort\obj\Debug\Insertion Sort.csproj.AssemblyReference.cache
+C:\Users\Ozan\Desktop\c#\Insertion Sort\Insertion Sort\obj\Debug\Insertion Sort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ozan\Desktop\c#\Insertion Sort\Insertion Sort\obj\Debug\Insertion_Sort.Form1.resources
+C:\Users\Ozan\Desktop\c#\Insertion Sort\Insertion Sort\obj\Debug\Insertion_Sort.Properties.Resources.resources
+C:\Users\Ozan\Desktop\c#\Insertion Sort\Insertion Sort\obj\Debug\Insertion Sort.csproj.GenerateResource.cache
+C:\Users\Ozan\Desktop\c#\Insertion Sort\Insertion Sort\obj\Debug\Insertion Sort.csproj.CoreCompileInputs.cache
+C:\Users\Ozan\Desktop\c#\Insertion Sort\Insertion Sort\obj\Debug\Insertion Sort.exe
+C:\Users\Ozan\Desktop\c#\Insertion Sort\Insertion Sort\obj\Debug\Insertion Sort.pdb
